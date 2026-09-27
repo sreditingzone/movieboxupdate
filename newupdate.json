@@ -6,7 +6,7 @@
     "updateUrl": "https://t.me/sreditingzoneoffical",
     "title": "Update Required v4.0.01.0813.03 💎 New",
     "description": "We have released a brand new update for MovieBox with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
-    "isForce": false,
+    "isForce": true,
     "isExpired": false,
     "expiryDate": "2030-12-31",
     "closeButtonText": "Cancel",
